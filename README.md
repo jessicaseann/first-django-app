@@ -1,2 +1,2 @@
-# first_django_app
-First django mini project
+# First Django App :sunglasses:
+tutorial from: https://docs.djangoproject.com/en/3.1/intro/tutorial01/ 
